@@ -1,5 +1,5 @@
 # NodeSSO - SoulsaverOnline server emulator for Node.js
-
+- This Project for Education Purpose Only! DO NOT USE For Commercial.
 ## Progress so far
 ## Tech Stack
 
