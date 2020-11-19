@@ -1,5 +1,5 @@
 module.exports = {
-  roots: ["<rootDir>/packages/core/src", "<rootDir>/packages/nodestory/src"],
+  roots: ["packages/core/src", "packages/nodestory/src"],
   transform: {
     "^.+\\.tsx?$": "ts-jest",
   },

@@ -1,10 +1,10 @@
-import { NodeStoryFactory } from '@nodestory/core';
+import { NodeStoryFactory } from "@nodestory/core";
 
-import { ChannelServer } from './channel/ChannelServer';
-import clientConfig from './config/client.config.json';
-import cryptoConfig from './config/crypto.config.json';
-import databaseConfig from './config/database.config.json';
-import { LoginServer } from './login/LoginServer';
+import { ChannelServer } from "./channel/ChannelServer";
+import clientConfig from "./config/client.config.json";
+import cryptoConfig from "./config/crypto.config.json";
+import databaseConfig from "./config/database.config.json";
+import { LoginServer } from "./login/LoginServer";
 
 const { version, subversion } = clientConfig;
 const { aesKey } = cryptoConfig;

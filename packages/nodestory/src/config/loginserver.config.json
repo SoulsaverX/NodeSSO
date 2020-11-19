@@ -1,13 +1,13 @@
 {
-  "port": 8484,
+  "port": 15001,
   "enableAutoRegister": true,
   "worlds": [
     {
       "id": 0,
-      "name": "Scania",
+      "name": "SOULSAVER_ZONE1",
       "privateIP": "127.0.0.1",
-      "publicIP": "192.168.86.225",
-      "portStart": 8500,
+      "publicIP": "192.168.1.120",
+      "portStart": 15001,
       "ribbon": 2,
       "channels": 1,
       "eventMessage": "",
