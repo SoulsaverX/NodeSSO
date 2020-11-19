@@ -1,16 +1,6 @@
-# NodeStory - MapleStory server emulator for Node.js
-
-**Work in progress!**
-
-NodeStory is a MapleStory server emulator for the Node.js runtime. This is a hobby project to challenge myself as a backend developer and build upon my understanding of TypeScript and Node.js.
-
-NodeStory will be taking a modern and SOLID approach for its architecture. My focus will be writing a maintainable server framework that allow developers to easily modify and extend functionalities.
+# NodeSSO - SoulsaverOnline server emulator for Node.js
 
 ## Progress so far
-- Auto registration
-- Character creation
-- Spawn in map
-
 ## Tech Stack
 
 - Node.js v12+
@@ -22,6 +12,4 @@ NodeStory will be taking a modern and SOLID approach for its architecture. My fo
 - Wizet/Nexon are the owners of MapleStory and all respective intellectual property.
 - diamondo25 for his Maple.js implementation and inspiration.
 
-## Disclaimer
 
-This project is purely for educational purposes and is not meant for commercial use.
